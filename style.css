@@ -71,11 +71,11 @@ main{
  margin-top: 24px;
  margin-bottom: 40px;
 }
-.main--img{
+.main-img{
  flex: 1;
 }
 
-.main--img img{
+.main-img img{
  width: 100%;
 }
 
@@ -178,6 +178,11 @@ footer{
  .menu-btn{
   display: block;
  }
- 
+ .headline{
+   font-size: 1.75rem;
+ }
+ .description{
+   font-size: 1rem;
+ }
  
 }
